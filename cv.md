@@ -7,4 +7,4 @@
 ### [LinkedIn](linkedin.com/in/dmitrii-bakalov-8a5358195)
 ### [GitHub](https://github.com/dmitriibakalov.git)
 ## About Myself:
-### Having started my career as a mining engineer.
+### Having started my career as a mining engineer
