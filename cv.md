@@ -14,7 +14,6 @@
 ## Code example:
 ## Courses:
 * ### JS/FE Pre-School 2022 the Rolling Scopes (in progress)
-
 ## Education:
 * ### Saint-Petersburg National Mineral Resources University Mining (2005-2010)
 ## Languages:
